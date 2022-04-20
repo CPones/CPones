@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chenpan321
+- 👋 Hi, I’m Chen Pan
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning DeepLearning
 - 💞️ I’m looking to collaborate on Huazhong University of Science and Technology
