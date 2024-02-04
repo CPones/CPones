@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chen Pan
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning DeepLearning
-- 💞️ I’m looking to collaborate on Huazhong University of Science and Technology
+- 👋 Hi, I'm Chen Pan
+- 👀 I'm interested in Autonomous Driving, Computer Vision, and Deep Learning
+- 💞️ I graduated from Huazhong University of Science and Technology with master's degree
 - 📫 How to reach me cp1990s@outlook.com
 
 <!---
